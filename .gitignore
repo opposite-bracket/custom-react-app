@@ -1,0 +1,7 @@
+# IDEs
+.idea
+.code
+
+# Project files
+node_modules
+dist
